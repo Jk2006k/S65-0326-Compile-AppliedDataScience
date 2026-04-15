@@ -1,0 +1,11 @@
+Customer_ID,Product_ID,Category,Quantity,Price,Purchase_Date
+1,P101,Electronics,2,500,2024-01-10
+2,P102,Clothing,1,100,2024-01-11
+3,P101,Electronics,3,500,2024-01-12
+4,P103,Grocery,5,50,2024-01-13
+5,P104,Clothing,2,120,2024-02-01
+6,P105,Grocery,4,60,2024-02-03
+7,P101,Electronics,1,500,2024-02-05
+8,P102,Clothing,3,100,2024-02-07
+9,P103,Grocery,6,50,2024-02-10
+10,P104,Clothing,2,120,2024-02-15
