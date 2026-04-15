@@ -1,3 +1,4 @@
+
 # 📊 Inventory Demand Analysis using Customer Behaviour Data
 
 ## 📌 Problem Statement
@@ -82,3 +83,8 @@ Using data instead of assumptions helps businesses optimize stock and improve pe
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+=======
+S65-0326-Compile-AppliedDataScience
+data science project
+group project
+
