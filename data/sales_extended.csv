@@ -1,0 +1,131 @@
+Customer_ID,Product_ID,Category,Quantity,Price,Purchase_Date,Region,Payment_Method
+1001,P001,Clothing,2,25.0,2023-01-15,North,Credit Card
+1002,P002,Electronics,1,1200.0,2023-01-16,South,PayPal
+1003,P003,Grocery,5,5.0,2023-01-16,North,Cash
+1001,P004,Grocery,10,2.5,2023-01-18,North,Credit Card
+1004,P001,Clothing,1,25.0,2023-01-20,West,Debit Card
+1002,P005,Electronics,1,800.0,2023-01-21,South,Credit Card
+1005,P006,Home Goods,2,50.0,2023-01-22,East,PayPal
+1006,P007,Toys,3,15.0,2023-01-24,West,Cash
+1003,P002,Electronics,1,1200.0,2023-01-25,North,Credit Card
+1007,P008,Books,4,10.0,2023-02-01,East,Debit Card
+1001,P003,Grocery,8,5.0,2023-02-02,North,Credit Card
+1008,P009,Sports,1,300.0,2023-02-05,South,PayPal
+1004,P010,Beauty,2,30.0,2023-02-08,West,Credit Card
+1002,P001,Clothing,3,25.0,2023-02-10,South,PayPal
+1009,P011,Automotive,1,150.0,2023-02-12,North,Cash
+1005,P007,Toys,2,15.0,2023-02-14,East,Credit Card
+1010,P012,Jewelry,1,500.0,2023-02-18,West,PayPal
+1006,P004,Grocery,12,2.5,2023-02-20,West,Debit Card
+1003,P008,Books,3,10.0,2023-02-22,North,Credit Card
+1011,P013,Health,3,20.0,2023-02-25,East,Cash
+1007,P005,Electronics,1,800.0,2023-03-01,East,PayPal
+1001,P009,Sports,2,300.0,2023-03-03,North,Credit Card
+1012,P014,Garden,4,40.0,2023-03-05,South,Debit Card
+1008,P001,Clothing,2,25.0,2023-03-08,South,Credit Card
+1004,P011,Automotive,1,150.0,2023-03-10,West,PayPal
+1013,P015,Kids,3,35.0,2023-03-12,North,Cash
+1009,P006,Home Goods,3,50.0,2023-03-15,North,Credit Card
+1002,P012,Jewelry,1,500.0,2023-03-18,South,PayPal
+1014,P016,Music,5,12.0,2023-03-20,East,Debit Card
+1005,P003,Grocery,15,5.0,2023-03-22,East,Credit Card
+1015,P017,Movies,4,8.0,2023-03-25,West,Cash
+1010,P002,Electronics,1,1200.0,2023-04-01,West,PayPal
+1006,P008,Books,2,10.0,2023-04-04,West,Credit Card
+1016,P018,Industrial,1,450.0,2023-04-06,North,Debit Card
+1003,P010,Beauty,3,30.0,2023-04-08,North,Credit Card
+1011,P001,Clothing,4,25.0,2023-04-10,East,PayPal
+1007,P013,Health,2,20.0,2023-04-12,East,Cash
+1017,P019,Outdoors,2,200.0,2023-04-15,South,Credit Card
+1001,P014,Garden,3,40.0,2023-04-18,North,PayPal
+1012,P004,Grocery,20,2.5,2023-04-20,South,Debit Card
+1008,P015,Kids,2,35.0,2023-04-22,South,Credit Card
+1018,P020,Tools,1,180.0,2023-04-25,West,Cash
+1004,P006,Home Goods,4,50.0,2023-05-01,West,PayPal
+1013,P017,Movies,3,8.0,2023-05-03,North,Credit Card
+1009,P002,Electronics,1,1200.0,2023-05-05,North,Debit Card
+1002,P018,Industrial,1,450.0,2023-05-08,South,Credit Card
+1014,P009,Sports,1,300.0,2023-05-10,East,PayPal
+1019,P021,Baby,3,22.0,2023-05-12,North,Cash
+1005,P011,Automotive,2,150.0,2023-05-15,East,Credit Card
+1015,P001,Clothing,3,25.0,2023-05-18,West,PayPal
+1010,P019,Outdoors,1,200.0,2023-05-20,West,Debit Card
+1020,P022,Computers,1,1500.0,2023-05-22,South,Credit Card
+1006,P012,Jewelry,1,500.0,2023-05-25,West,Cash
+1016,P003,Grocery,25,5.0,2023-06-01,North,PayPal
+1003,P020,Tools,1,180.0,2023-06-04,North,Credit Card
+1011,P005,Electronics,1,800.0,2023-06-06,East,Debit Card
+1021,P023,Software,2,80.0,2023-06-08,West,Credit Card
+1007,P021,Baby,2,22.0,2023-06-10,East,PayPal
+1017,P007,Toys,4,15.0,2023-06-12,South,Cash
+1001,P022,Computers,1,1500.0,2023-06-15,North,Credit Card
+1012,P016,Music,6,12.0,2023-06-18,South,PayPal
+1022,P024,Pet Supplies,3,18.0,2023-06-20,North,Debit Card
+1008,P018,Industrial,1,450.0,2023-06-22,South,Credit Card
+1018,P009,Sports,2,300.0,2023-06-25,West,Cash
+1004,P023,Software,1,80.0,2023-07-01,West,PayPal
+1013,P001,Clothing,5,25.0,2023-07-03,North,Credit Card
+1023,P025,Office Supplies,10,7.0,2023-07-05,East,Debit Card
+1009,P024,Pet Supplies,2,18.0,2023-07-08,North,Credit Card
+1002,P014,Garden,5,40.0,2023-07-10,South,PayPal
+1014,P019,Outdoors,1,200.0,2023-07-12,East,Cash
+1024,P026,Luggage,1,120.0,2023-07-15,West,Credit Card
+1005,P015,Kids,4,35.0,2023-07-18,East,PayPal
+1015,P004,Grocery,30,2.5,2023-07-20,West,Debit Card
+1025,P027,Camera,1,950.0,2023-07-22,North,Credit Card
+1010,P017,Movies,5,8.0,2023-07-25,West,Cash
+1020,P006,Home Goods,5,50.0,2023-08-01,South,PayPal
+1006,P025,Office Supplies,8,7.0,2023-08-04,West,Credit Card
+1016,P010,Beauty,4,30.0,2023-08-06,North,Debit Card
+1026,P028,Video Games,2,60.0,2023-08-08,South,Credit Card
+1003,P026,Luggage,1,120.0,2023-08-10,North,PayPal
+1011,P012,Jewelry,1,500.0,2023-08-12,East,Cash
+1021,P008,Books,5,10.0,2023-08-15,West,Credit Card
+1007,P027,Camera,1,950.0,2023-08-18,East,PayPal
+1017,P013,Health,4,20.0,2023-08-20,South,Debit Card
+1027,P029,Furniture,1,700.0,2023-08-22,North,Credit Card
+1001,P028,Video Games,1,60.0,2023-08-25,North,Cash
+1012,P018,Industrial,1,450.0,2023-09-01,South,PayPal
+1022,P011,Automotive,2,150.0,2023-09-04,North,Credit Card
+1008,P029,Furniture,1,700.0,2023-09-06,South,Debit Card
+1018,P002,Electronics,1,1200.0,2023-09-08,West,Credit Card
+1004,P021,Baby,4,22.0,2023-09-10,West,PayPal
+1013,P022,Computers,1,1500.0,2023-09-12,North,Cash
+1023,P005,Electronics,1,800.0,2023-09-15,East,Credit Card
+1009,P023,Software,2,80.0,2023-09-18,North,PayPal
+1002,P024,Pet Supplies,4,18.0,2023-09-20,South,Debit Card
+1014,P007,Toys,5,15.0,2023-09-22,East,Credit Card
+1024,P009,Sports,2,300.0,2023-09-25,West,Cash
+1005,P026,Luggage,1,120.0,2023-10-01,East,PayPal
+1015,P014,Garden,6,40.0,2023-10-04,West,Credit Card
+1025,P003,Grocery,40,5.0,2023-10-06,North,Debit Card
+1010,P027,Camera,1,950.0,2023-10-08,West,Credit Card
+1020,P016,Music,8,12.0,2023-10-10,South,PayPal
+1006,P028,Video Games,2,60.0,2023-10-12,West,Cash
+1016,P019,Outdoors,2,200.0,2023-10-15,North,Credit Card
+1026,P001,Clothing,6,25.0,2023-10-18,South,PayPal
+1003,P029,Furniture,1,700.0,2023-10-20,North,Debit Card
+1011,P020,Tools,2,180.0,2023-10-22,East,Credit Card
+1021,P004,Grocery,35,2.5,2023-10-25,West,Cash
+1007,P022,Computers,1,1500.0,2023-11-01,East,PayPal
+1017,P008,Books,6,10.0,2023-11-04,South,Credit Card
+1027,P010,Beauty,5,30.0,2023-11-06,North,Debit Card
+1001,P023,Software,1,80.0,2023-11-08,North,Credit Card
+1012,P024,Pet Supplies,3,18.0,2023-11-10,South,PayPal
+1022,P012,Jewelry,1,500.0,2023-11-12,North,Cash
+1008,P025,Office Supplies,12,7.0,2023-11-15,South,Credit Card
+1018,P013,Health,5,20.0,2023-11-18,West,PayPal
+1004,P026,Luggage,1,120.0,2023-11-20,West,Debit Card
+1013,P015,Kids,5,35.0,2023-11-22,North,Credit Card
+1023,P006,Home Goods,6,50.0,2023-11-25,East,Cash
+1009,P027,Camera,1,950.0,2023-12-01,North,PayPal
+1002,P028,Video Games,2,60.0,2023-12-04,South,Credit Card
+1014,P017,Movies,6,8.0,2023-12-06,East,Debit Card
+1024,P009,Sports,3,300.0,2023-12-08,West,Credit Card
+1005,P029,Furniture,1,700.0,2023-12-10,East,PayPal
+1015,P018,Industrial,2,450.0,2023-12-12,West,Cash
+1025,P002,Electronics,1,1200.0,2023-12-15,North,Credit Card
+1010,P021,Baby,5,22.0,2023-12-18,West,PayPal
+1020,P005,Electronics,1,800.0,2023-12-20,South,Debit Card
+1006,P022,Computers,1,1500.0,2023-12-22,West,Credit Card
+1016,P007,Toys,6,15.0,2023-12-25,North,Cash
